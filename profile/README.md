@@ -17,6 +17,10 @@ For every action routed through it, FeirOS:
 
 Authorize before. Bound during. Prove after.
 
+## Open source
+
+- **[vultrino](https://github.com/FeirAI/vultrino)** — credential proxy; agents use credentials without seeing them (enforce plane)
+
 ## Links
 
 - Website: [feir.ai](https://feir.ai)
@@ -25,5 +29,5 @@ Authorize before. Bound during. Prove after.
 
 ## Contact
 
-Security reports: **contact@feir.ai**  
-General: [feir.ai](https://feir.ai)
+Security reports: **security@feir.ai**  
+General: [contact@feir.ai](mailto:contact@feir.ai) · [feir.ai](https://feir.ai)
