@@ -6,7 +6,7 @@ FeirAI builds governance infrastructure for autonomous operations: policy before
 
 ## FeirOS
 
-[FeirOS](https://feir.ai) is the flagship product — a governed action boundary between AI agents and sensitive systems.
+[FeirOS](https://feir.ai/organizations) is the flagship product — a governed action boundary between AI agents and sensitive systems.
 
 For every action routed through it, FeirOS:
 
@@ -17,19 +17,6 @@ For every action routed through it, FeirOS:
 
 Authorize before. Bound during. Prove after.
 
-## Open-source planes
-
-FeirOS is composed of four independently usable planes. Each will live in this organization as it is released:
-
-| Plane | Role |
-| --- | --- |
-| **govder** | Decides — resolves policy into an effective config |
-| **vultrino** | Enforces — in-path credential proxy; default-deny |
-| **leria** | Meters — durable book of consumption and budgets |
-| **averin** | Proves — signed, hash-chained, offline-verifiable flight recorder |
-
-Claims stay bounded: evidence carries declared trust levels; metering admits bounded overshoot; only actions on the governed path are covered.
-
 ## Links
 
 - Website: [feir.ai](https://feir.ai)
@@ -38,5 +25,5 @@ Claims stay bounded: evidence carries declared trust levels; metering admits bou
 
 ## Contact
 
-Security reports: **security@feir.ai**  
+Security reports: **contact@feir.ai**  
 General: [feir.ai](https://feir.ai)
